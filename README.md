@@ -1,3 +1,2 @@
 # pakokokok
-pokak
-pekok
+hawong
