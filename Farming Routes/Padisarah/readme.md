@@ -10,3 +10,7 @@
 3.
 
 ![Padisarah-Route-3](./padisarah-3.png)
+
+4.
+
+![Padisarah-Route-4](./padisarah-4.png)
