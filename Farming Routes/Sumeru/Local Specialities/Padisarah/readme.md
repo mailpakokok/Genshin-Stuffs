@@ -1,7 +1,5 @@
 # Padisarah Farming Route
-> There will be a total of 69 Padisarah. For number `2` you have to finish Aranara Quests*
-
-*will add description for quest later
+> There will be a total of 73 Padisarah.
 
 1.
 
@@ -17,6 +15,6 @@
 
 ![Padisarah-Route-3](./padisarah-3.png)
 
-4.
+4. There's 4 Padisarah inside the garden `see the arrow`
 
 ![Padisarah-Route-4](./padisarah-4.png)
