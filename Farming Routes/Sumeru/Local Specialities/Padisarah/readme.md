@@ -22,6 +22,9 @@
 ## More info
 - [How to unlock vanarana](https://progameguides.com/genshin-impact/how-to-unlock-switch-between-real-dream-vanarana-in-sumeru-in-genshin-impact/)<br/>
 - [Youtube Walkthrough](https://www.youtube.com/results?search_query=padisarah+farming+route) (will add farm route from myself later)<br/>
+<br/>
+## Credits
+- freezebear#9066 <br/>
 
 [padisarah-1]: ./padisarah-1.png
 [padisarah-2]: ./padisarah-2.png
