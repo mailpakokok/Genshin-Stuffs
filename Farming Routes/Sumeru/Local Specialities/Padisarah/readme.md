@@ -31,6 +31,8 @@
 
 - freezebear#9066
 
+> ### [Back to Local Specialites](/Farming%20Routes/Sumeru/Local%20Specialities/readme.md)
+
 [padisarah-1]: ./padisarah-1.png
 [padisarah-2]: ./padisarah-2.png
 [padisarah-3]: ./padisarah-3.png
