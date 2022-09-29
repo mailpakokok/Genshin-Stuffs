@@ -1,6 +1,6 @@
 # Rukkhashava Mushroom Farming Route
 
-##  1
+## 1
 
 ![rukkhashava-route-1](./rukkhashava-1.png)
 
