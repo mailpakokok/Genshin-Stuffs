@@ -1,5 +1,11 @@
 # Common Items
 
-- ## [Viparyas](/Farming%20Routes/Sumeru/Viparyas/readme.md)
+- ## [Viparyas][viparyas]
 
-> ### [Back to Farming Routes](/Farming%20Routes/readme.md)
+![viparyas](/Assets/img/ItemIcon/UI_ItemIcon_101228.png)
+
+> ### [Back to Farming Routes][back]
+
+[viparyas]: /Farming%20Routes/Sumeru/Viparyas/readme.md
+
+[back]: /Farming%20Routes/readme.md
